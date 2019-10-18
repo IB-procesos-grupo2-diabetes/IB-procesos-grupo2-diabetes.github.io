@@ -1521,7 +1521,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
               },
               {
-                "image": "@THEME_PATH@/components/_images/background2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/portada-221822-1-439x247.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
@@ -1536,11 +1536,12 @@
                 "textTitle": "<b>MEDICIÓN DEL EFECTO</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
+                "text": "En la actualidad hay 1’996,800 personas con diabetes\n<br>en el Perú, lo que representa el 6.4% de la población\n<br>nacional",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> ",
+                "overlayOpacity": "0.9"
               },
               {
-                "image": "@THEME_PATH@/components/_images/background3.jpg",
+                "image": "@PROJECT_PATH@/assets/images/screenshot-10-604x243.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
@@ -1555,8 +1556,9 @@
                 "textTitle": "<b>COMPARACIÓN DE ESTÁNDARES</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes: jumbotrons,  hero images, desplazamiento con paralaje, fondos con videos, menú de hamburguesa, encabezado fijo y más.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> "
+                "text": "... con el peor y el mejor de los países en prevalencia e incidencia para saber qué hacen y no<br> hacen para obtener ciertos resultados",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-danger\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MÁS</a> ",
+                "overlayOpacity": "0.9"
               }
             ]
           },
