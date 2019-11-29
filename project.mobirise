@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "procesos ib",
-    "currentPage": "page4.html",
+    "currentPage": "page18.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
       }
     ],
     "versionFirst": "4.7.6",
-    "uniqCompNum": 289,
+    "uniqCompNum": 298,
     "versionPublish": "4.11.2",
     "favicon": "",
     "": "on",
@@ -15409,6 +15409,264 @@
           "_isUserblock": true,
           "_sourceTheme": "mobirise4",
           "_cid": "rJbo1euCe1",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Efectos de Diabetes en Sectores</b></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-82",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbtcUOwVs",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-text UL": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <div><b><br></b></div><ul>\n                    <li><b>MedlinePlus. (s.f.). Complicaciones de la diabetes a largo plazo. Disponible en: https://medlineplus.gov/spanish/ency/patientinstructions/000327.htm\n</b></li><li><b>MayoClinic. (2017). Diabetes gestacional. Disponible en: https://www.mayoclinic.org/es-es/diseases-conditions/gestational-diabetes/symptoms-causes/syc-20355339\n</b></li><li><b>GuiaInfantil. (2018). Enfermedades infantiles. Disponible en: https://www.guiainfantil.com/salud/enfermedades/index.htm\n</b></li><li><b>Guerrero, F. (2006). Todo sobre diabetes infantil. Grupo Imaginador: Buenos aires. Disponible en: https://books.google.es/books?hl=es&amp;lr=&amp;id=1RFHcje_UTEC&amp;oi=fnd&amp;pg=PA3&amp;dq=diabetes+infantil&amp;ots=M5_IwNBWZ1&amp;sig=CxF40W81u5Wz9rslm5yEiR0VuNk#v=onepage&amp;q=diabetes%20infantil&amp;f=false [pdf]\n</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content12-81",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbsXfZY5j",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Patentes</b></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-83",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbtpL3Wbd",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-text UL": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>CN 102803947 (A) – 2012-11-28:   SENSOR DE GLUCOSA\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><span style=\"font-size: 1.3rem;\">https://patents.google.com/patent/CN102803947A/en?oq=CN+102803947+(A)+&nbsp;</span></li><li><b>US2018289292 (A1) – 2018-10-11: SISTEMA DE DETECCIÓN DE DIABETES MELLITUS TIPO 1 Y 2 A TRAVÉS DEL USO DE IMÁGENES DE HUELLAS DACTILARES\n </b><span style=\"font-size: 1.3rem;\">https://patents.google.com/patent/US20180289292A1/en?oq=US2018289292</span><b style=\"font-size: 1.3rem;\">&nbsp;</b></li><li><b>WO2016190725A1: ASISTENTE VIRTUAL PARA GENERACIÓN Y REGISTRO DE RECETAS MÉDICAS\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><span style=\"font-size: 1.3rem;\">https://patents.google.com/patent/WO2016190725A1/es?oq=WO2016190725A1</span><b style=\"font-size: 1.3rem;\">&nbsp;</b></li><li><b>CN109691980 MÉTODO PARA DETECCIÓN DE DIABETES A TRAVÉS DE IMÁGENES DE RETINA\n &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </b><span style=\"font-size: 1.3rem;\">https://worldwide.espacenet.com/publicationDetails/biblioII=0&amp;ND=3&amp;adjacent=true&amp;locale=en_EP&amp;FT=D&amp;date=20190430&amp;CC=CN&amp;NR=109691980A&amp;KC=A&nbsp;</span></li><li><span style=\"font-size: 1.3rem;\"><b>US2019200904 (A1) – 2019-07-04 MÉTODO Y DISPOSITIVO PARA EL TRAMIENTO LIGERO Y NO INVASIVO DE LA DIABETES&nbsp;</b></span><span style=\"font-size: 1.3rem;\">https://worldwide.espacenet.com/publicationDetails/biblio?DB=EPODOC&amp;II=0&amp;ND=3&amp;adjacent=true&amp;locale=en_EP&amp;FT=D&amp;date=20190704&amp;CC=US&amp;NR=2019200904A1&amp;KC=A1</span><b style=\"font-size: 1.3rem;\">&nbsp;</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content12-84",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbv7EdBci",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".mbr-text, blockquote": {
+              "color": "#767676"
+            },
+            ".mbr-text": {
+              "text-align": "center",
+              "color": "#232323"
+            }
+          },
+          "_name": "content1",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Width Content\" name=\"widthContent\" min=\"1\" max=\"4\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article mbr-class=\"{'col-md-6': widthContent == 1, 'col-md-8': widthContent == 2, 'col-md-10': widthContent == 3, 'col-md-12': widthContent == 4}\"><b>Perfil del cliente y estudio del efecto e impacto de la Diabetes en el Perú</b><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content1-86",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbvOwpNJ1",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "color": "#767676",
+              "ul": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem",
+                  "& when (@stylizedCounters)": {
+                    "list-style": "none",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "0px",
+                      "margin-top": "-10px",
+                      "padding-top": "3px",
+                      "content": "''",
+                      "display": "inline-block",
+                      "text-align": "center",
+                      "margin": "5px 10px",
+                      "line-height": "20px",
+                      "transition": "all .2s",
+                      "color": "contrast(@counterColor)",
+                      "background": "@counterColor",
+                      "width": "25px",
+                      "height": "25px",
+                      "border-radius": "50%",
+                      "& when (@countersType = 'circle')": {
+                        "background": "none",
+                        "border": "1px solid @counterColor",
+                        "color": "@counterColor"
+                      },
+                      "& when (@countersType = 'square')": {
+                        "border-radius": "0"
+                      },
+                      "& when (@mark)": {
+                        "content": "'✓'"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            ".mbr-text UL": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content12",
+          "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul><li><b>RiojaSalud. (s.f.). ¿Qué es la diabetes?. Disponible en: https://www.riojasalud.es/ciudadanos/catalogo-multimedia/endocrinologia/que-es-la-diabetes\n</b></li><li><b>National Institute of Diabetes and Digestive and Kidney Diseases. (2016). Síntomas y causas de la diabetes. Disponible en: https://www.niddk.nih.gov/health-information/informacion-de-la-salud/diabetes/informacion-general/sintomas-causas\n</b></li><li><b>ElComercio. (2018). Las enfermedades que más muertes causan en el Perú. Disponible en: https://elcomercio.pe/tecnologia/ciencias/enfermedades-muertes-causan-peru-noticia-570079-noticia/?ref=ecr\n</b></li><li><b>Peru21. (2019). Ministerio del Ambiente impulsa la aplicación de la economía circular en el Perú. Disponible en: https://peru21.pe/lima/dia-mundial-diabetes-peru-50-personas-diagnosticada-video-233290-noticia/\n</b></li><li><b>Prevalence of diabetes and impaired fasting glucos in Peru: report from PERUDIAB, a national urban population-based longitudinal study. https://drc.bmj.com/content/bmjdrc/3/1/e000110.full.pdf\n</b></li><li><b>Peru21. (2018). Día Mundial de la Diabetes: ¿Cuánto gastan los peruanos para tratar la enfermedad?. Disponible en: https://peru21.pe/economia/dia-mundial-diabetes-gastan-peruanos-tratar-enfermedad-nndc-440407-noticia/\n</b></li><li><b>URP. (2017). Impacto económico de la diabetes mellitus tipo 2 en el Perú en el año 2017. Disponible en: http://repositorio.urp.edu.pe/bitstream/handle/URP/1755/DFARIDLICAPA.pdf?sequence=1&amp;isAllowed=y \n</b></li><li><b>American Diabetes Association. 4. Lifestyle management: standards of medical care in diabetes-2018. Diabetes Care. 2018;41(Suppl 1):S38-S50. PMID: 29222375 www.ncbi.nlm.nih.gov/pubmed/29222375\n</b></li><li><b>Brownlee M, Aiello LP, Cooper ME, Vinik AI, Plutzky J, Boulton AJM. Complications of diabetes mellitus. In: Melmed S, Polonsky KS, Larsen PR, Kronenberg HM, eds. Williams Textbook of Endocrinology. 13th ed. Philadelphia, PA: Elsevier; 2016:chap 33.\n</b></li><li><b>OPS. (2016). En el Día Mundial de la Diabetes, 14 de noviembre, se hace un llamado a la población a realizar un diagnóstico temprano. Disponible en: https://www.paho.org/per/index.php?option=com_content&amp;view=article&amp;id=3617:en-el-dia-mundial-de-la-diabetes-14-de-noviembre-se-hace-un-llamado-a-la-poblacion-a-realizar-un-diagnostico-temprano&amp;Itemid=900\n</b></li><li><b>OMS. (2016b). Perfil de Perú para diabetes - 2016. Recuperado de https://www.who.int/diabetes/country-profiles/per_es.pdf?ua=1</b></li><li><b>MINSA. (2018). BOLETÍN EPIDEMIOLÓGICO DEL PERÚ. Recuperado de https://www.dge.gob.pe/portal/docs/vigilancia/boletines/2018/52.pdf\n</b></li><li><b>Novo Nordisk. (s.f.). Compendio de diabetes en el Perú. (13a. ed.). Lima: Autor. Disponible en: https://drive.google.com/file/d/1u_RzU0tRgCYOEc5KGotuODKvzKu_d6ZG/view\n</b></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content12-87",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise4",
+          "_cid": "rJbvTvLV1b",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
